@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 深渊之上
+title: 画地为牢
 subtitle:
 description: 当你凝望深渊,深渊也凝望你
 keywords:
@@ -13,7 +13,8 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: 373432156.github.io
+# url: 373432156.github.io
+url: https://star999.gitee.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -85,5 +86,6 @@ search:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/373432156/373432156.github.io.git
+#  repo: https://github.com/373432156/373432156.github.io.git
+  repo: git@gitee.com:Star999/Star999.git
   branch: master
